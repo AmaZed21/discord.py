@@ -26,6 +26,6 @@ Get it from : [Python Installation](https://python.org)
 
 ### Contribution
 
-To prevent duplication of issues, please search if your issue has been aasked already.
+To prevent duplication of issues, please search if your issue has been asked already.
 
 To request feature updates, include **Feature request: "your request"** in the title.
