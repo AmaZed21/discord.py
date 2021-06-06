@@ -22,3 +22,10 @@ To run this bot install the requirements using pip
 Bot works best on the latest version of Python 
 
 Get it from : [Python Installation](https://python.org)
+
+
+### Contribution
+
+To prevent duplication of issues, please search if your issue has been aasked already.
+
+To request feature updates, include **Feature request: "your request"** in the title.
